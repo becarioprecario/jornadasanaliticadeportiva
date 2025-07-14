@@ -8,6 +8,8 @@ E.T.S. Ingeniería Industrial de Ciudad Real, Universidad de Castilla-La Mancha,
 
 ## Introducción
 
+Estas jornadas surgen como un primer punto de encuentro sobre el análisis de datos deportivos. En concreto, por la iniciativa del grupo de trabajo sobre *Análisis de datos deportivos* de la Sociedad Española de Estadística e Investigación Operativa (SEIO) y la Red de Investigación en *Sports Anlytics* (RISA) financiada por el Consejo Superior de Deportes.
+
 ## Comité organizador
 
 Irene García-Camacha Gutiérrez (E.T.S.I.I.-Ciudad Real)
