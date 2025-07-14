@@ -20,7 +20,12 @@ Ricardo Negrete Gallego (E.T.S.I.I.-Ciudad Real)
 
 Sergio Pozuelo Campos (E.T.S.I.I.-Ciudad Real)
 
+
 ## Programa
+
+## Inscripción
+
+Si te interesa asistir a estas jornadas, puedes hacer la inscripcion (gratuita) en [este enlace]().
 
 ## Entidades financiadoras
 
