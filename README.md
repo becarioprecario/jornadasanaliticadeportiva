@@ -21,3 +21,10 @@ Sergio Pozuelo Campos (E.T.S.I.I.-Ciudad Real)
 ## Programa
 
 ## Entidades financiadoras
+
+La organizacion de estar jornadas ha sido posbile gracias al apoyo de las siguientes instituciones:
+
+* Universidad de Castilla-La Mancha.
+* Consejo Superior de Deportes.
+* Junta de Comunidades de Castilla-La Mancha.
+* Ministerior de Ciencia, Innovación y Universidades.
