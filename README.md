@@ -29,4 +29,5 @@ La organizacion de estar jornadas ha sido posbile gracias al apoyo de las siguie
 * Universidad de Castilla-La Mancha.
 * Consejo Superior de Deportes.
 * Junta de Comunidades de Castilla-La Mancha.
-* Ministerior de Ciencia, Innovación y Universidades.
+* Ministerio de Ciencia, Innovación y Universidades.
+* Sociedad Española de Estadística e Investigacion Operativa (SEIO).
