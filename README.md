@@ -25,7 +25,7 @@ Sergio Pozuelo Campos (E.T.S.I.I.-Ciudad Real)
 
 ## Inscripción
 
-Si te interesa asistir a estas jornadas, puedes hacer la inscripcion (gratuita) en [este enlace]().
+Si te interesa asistir a estas jornadas, puedes hacer la inscripcion (gratuita) en [este enlace](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=5rosxPRhjEmRB2qM9fAeVs5839mgfXBJsEuRedMWWSVUMEc2QzdCN0lLVVJMRzFITzJINFZGS0hUWC4u).
 
 ## Entidades financiadoras
 
