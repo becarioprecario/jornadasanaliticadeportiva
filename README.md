@@ -6,8 +6,15 @@ Aula 1.03
 
 E.T.S. Ingeniería Industrial de Ciudad Real, Universidad de Castilla-La Mancha, Ciudad Real
 
-# Introducción
+## Introducción
 
-# Programa
+## Comité organizador
 
-# Entidades financiadoras
+Irene García-Camacha Gutiérrez (E.T.S.I.I.-Ciudad Real)
+Virgioio Gómez Rubio (E.T.S.I.I.-Albacete)
+Ricardo Negrete Gallego (E.T.S.I.I.-Ciudad Real)
+Sergio Pozuelo Campos (E.T.S.I.I.-Ciudad Real)
+
+## Programa
+
+## Entidades financiadoras
