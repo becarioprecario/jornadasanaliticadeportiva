@@ -28,6 +28,10 @@ Sergio Pozuelo Campos (E.T.S.I.I.-Ciudad Real)
 
 ![Programa de las jornadas.](/assests/img/programa_jornadas_AD.png)
 
+## Inscripción
+
+Si te interesa asistir a estas jornadas, puedes hacer la inscripcion (gratuita) en [este enlace](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=5rosxPRhjEmRB2qM9fAeVs5839mgfXBJsEuRedMWWSVUMEc2QzdCN0lLVVJMRzFITzJINFZGS0hUWC4u).
+
 ## Ubicación
 
 La E.T.S. de Ingeniería Industrial de Ciudad Real se encuentra en el campus principal de la Universidad de Castilla-La Mancha en Ciudad Real.
@@ -46,10 +50,6 @@ Ciudad Real ofrece diversas opciones en cuanto a alojamiento se refiere. Algunas
 
 * [Hotel Exe Doña Carlota.](https://www.eurostarshotels.com/exe-dona-carlota.html) Este hotel es el más cercano al campus.
 * [Cumbria Spa & Hotel.](https://www.cumbriahotel.es)
-
-## Inscripción
-
-Si te interesa asistir a estas jornadas, puedes hacer la inscripcion (gratuita) en [este enlace](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=5rosxPRhjEmRB2qM9fAeVs5839mgfXBJsEuRedMWWSVUMEc2QzdCN0lLVVJMRzFITzJINFZGS0hUWC4u).
 
 ## Entidades financiadoras
 
