@@ -1,3 +1,6 @@
+---
+toc:true
+---
 # Jornadas de analítica deportiva: divulgación, investigación y transferencia
 
 11-12 de septiembre de 2025
