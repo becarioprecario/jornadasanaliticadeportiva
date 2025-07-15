@@ -23,6 +23,8 @@ Sergio Pozuelo Campos (E.T.S.I.I.-Ciudad Real)
 
 ## Programa
 
+![Programa de las jornadas.](/assests/img/programa_jornadas_AD.png)
+
 ## Ubicación
 
 La E.T.S. de Ingeniería Industrial de Ciudad Real se encuentra en el campus principal de la Universidad de Castilla-La Mancha en Ciudad Real.
