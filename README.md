@@ -23,7 +23,7 @@ Sergio Pozuelo Campos (E.T.S.I.I.-Ciudad Real)
 
 ## Programa
 
-![Programa de las jornadas.](/assests/img/programa_jornadas_AD.png)
+![Programa de las jornadas.](/assets/img/programa_jornadas_AD.png)
 
 ## Inscripción
 
