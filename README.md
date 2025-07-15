@@ -23,13 +23,24 @@ Sergio Pozuelo Campos (E.T.S.I.I.-Ciudad Real)
 
 ## Programa
 
-## ¿Cómo llegar?
+## Ubicación
 
-La E.T.S. de Ingeniería Industrial de Ciudad Real se encuentra en el campus principal de la Universidad de Castilla-La Mancha en Ciudad Real. 
+La E.T.S. de Ingeniería Industrial de Ciudad Real se encuentra en el campus principal de la Universidad de Castilla-La Mancha en Ciudad Real.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2055.231126639148!2d-3.918911!3d38.992115!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6bc34488e00c3d%3A0x57710a0c8e9b02f6!2sEscuela%20T%C3%A9cnica%20Superior%20De%20Ingenieros%20Industriales!5e1!3m2!1ses!2ses!4v1752561498874!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+## ¿Cómo llegar?
+
+La manera más sencilla de llegar a Ciudad Real es en tren, que se encuentra muy cerca del campus principal de la Universidad de Castilla-La Mancha.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4110.884446377556!2d-3.9157797876225446!3d38.98484507158753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6bc349d6181a51%3A0xb35bc218262209f2!2sCiudad%20Real!5e1!3m2!1ses!2ses!4v1752562034017!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 ## Alojamiento
+
+Ciudad Real ofrece diversas opciones en cuanto a alojamiento se refiere. Algunas opciones son:
+
+* [Hotel Exe Doña Carlota.](https://www.eurostarshotels.com/exe-dona-carlota.html) Este hotel es el más cercano al campus.
+* [Cumbria Spa & Hotel.](https://www.cumbriahotel.es)
 
 ## Inscripción
 
