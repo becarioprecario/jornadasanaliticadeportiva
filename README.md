@@ -23,6 +23,8 @@ Sergio Pozuelo Campos (E.T.S.I.I.-Ciudad Real)
 
 ## Programa
 
+A continuacion, aparece un resumen del programa. Un programa detallado puede obtenerse en [este enlace](assets/docs/programa_detallado.pdf).
+
 ![Programa de las jornadas.](/assets/img/programa_jornadas_AD.png)
 
 ## Inscripción
