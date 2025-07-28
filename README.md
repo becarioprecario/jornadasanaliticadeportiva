@@ -55,6 +55,8 @@ Ciudad Real ofrece diversas opciones en cuanto a alojamiento se refiere. Algunas
 La organizacion de estar jornadas ha sido posbile gracias al apoyo de las siguientes instituciones:
 
 * Universidad de Castilla-La Mancha.
+* E.T.S. de Ingeniería Industrial de Ciudad Real (UCLM).
+* Departamento de Matemáticas (UCLM).
 * Consejo Superior de Deportes.
 * Junta de Comunidades de Castilla-La Mancha.
 * Ministerio de Ciencia, Innovación y Universidades.
