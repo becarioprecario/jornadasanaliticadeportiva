@@ -23,7 +23,7 @@ Sergio Pozuelo Campos (E.T.S.I.I.-Ciudad Real)
 
 ## Programa
 
-A continuacion, aparece un resumen del programa. Un programa detallado puede obtenerse en [este enlace](assets/docs/programa_detallado.pdf).
+A continuación, aparece un resumen del programa. Un programa detallado puede obtenerse en [este enlace](assets/docs/programa_detallado.pdf).
 
 ![Programa de las jornadas.](/assets/img/programa_jornadas_AD.png)
 
@@ -52,7 +52,7 @@ Ciudad Real ofrece diversas opciones en cuanto a alojamiento se refiere. Algunas
 
 ## Entidades financiadoras
 
-La organizacion de estar jornadas ha sido posbile gracias al apoyo de las siguientes instituciones:
+La organización de estas jornadas ha sido posbile gracias al apoyo de las siguientes instituciones:
 
 * Universidad de Castilla-La Mancha.
 * E.T.S. de Ingeniería Industrial de Ciudad Real (UCLM).
