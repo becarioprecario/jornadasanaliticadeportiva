@@ -52,7 +52,7 @@ Ciudad Real ofrece diversas opciones en cuanto a alojamiento se refiere. Algunas
 
 ## Entidades financiadoras
 
-La organización de estas jornadas ha sido posbile gracias al apoyo de las siguientes instituciones:
+La organización de estas jornadas ha sido posible gracias al apoyo de las siguientes instituciones:
 
 * Universidad de Castilla-La Mancha.
 * E.T.S. de Ingeniería Industrial de Ciudad Real (UCLM).
